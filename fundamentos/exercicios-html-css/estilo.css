@@ -1,0 +1,19 @@
+body{
+    background: #C2C2B1;
+    font-size: 16px;
+}
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+.teste{
+    background-color: aqua;
+}
+li{
+    background-color: blue;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
